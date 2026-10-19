@@ -483,6 +483,10 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contribute.
 
+## CI
+
+This repository uses [awesome-lint](https://github.com/sindresorhus/awesome-lint) to validate the awesome list format on every pull request and push to `main`.
+
 ---
 
 ### License
